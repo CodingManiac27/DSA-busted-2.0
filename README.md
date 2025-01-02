@@ -6,18 +6,18 @@ Solutions to problems from the 30-day DSA Busted 2.0 event, with code for each d
 <details open>
   <summary> Day 1 </summary>
   
-  - Problem 1
-  - Problem 2
-  - problem 3
+  - [Problem 1](https://www.codechef.com/problems/IOI2024)
+  - [Problem 2](https://www.codechef.com/problems/FLOW001)
+  - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
     
 </details>
 
 <details>
   <summary> Day 2 </summary>
   
-  - Problem 1
-  - Problem 2
-  - problem 3
+  - [Problem 1](https://www.codechef.com/problems/R5S)
+  - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
+  - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)
 
 </details>
 
