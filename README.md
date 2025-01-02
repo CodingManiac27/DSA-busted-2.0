@@ -5,15 +5,20 @@ Solutions to problems from the 30-day DSA Busted 2.0 event, with code for each d
 
 <details open>
   <summary> Day 1 </summary>
+  
   - Problem 1
   - Problem 2
   - problem 3
+    
 </details>
+
 <details>
   <summary> Day 2 </summary>
+  
   - Problem 1
   - Problem 2
   - problem 3
+
 </details>
 
 
