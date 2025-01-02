@@ -3,14 +3,16 @@ Solutions to problems from the 30-day DSA Busted 2.0 event, with code for each d
 
 ## Problem links
 
-- Day 1
+<details>
+  <summary> Day 1 </summary>
   - Problem 1
   - Problem 2
   - problem 3
-- Day 2
+<summary> Day 2 </summary>
   - Problem 1
   - Problem 2
   - problem 3
+</details>
 
 ## About
 
