@@ -35,9 +35,10 @@ This repository is organized by days. Each day’s problem will be in its respec
 
 ### Contact & Links:
 -  [Event link](https://gdg.community.dev/events/details/google-gdg-on-campus-marathwada-mitra-mandals-college-of-engineering-pune-india-presents-dsa-busted-20/)
--  [Your GitHub Profile Link](https://github.com/CodingManiac27)
--  [LinkedIn](https://www.linkedin.com/in/shubham-pawar-9092b72b1/)
 -  [Whatsapp group](https://chat.whatsapp.com/ESA2tSKWQ7GFnpEE28mhp0) 
+-  [My GitHub Profile Link](https://github.com/CodingManiac27)
+-  [My LinkedIn](https://www.linkedin.com/in/shubham-pawar-9092b72b1/)
+
 
 
 
