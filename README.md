@@ -3,14 +3,24 @@ Solutions to problems from the 30-day DSA Busted 2.0 event, with code for each d
 
 ## Problem links
 
-- Day 1
-  - Problem 1
-  - Problem 2
-  - problem 3
-- Day 2
-  - Problem 1
-  - Problem 2
-  - problem 3
+<details open>
+  <summary> Day 1 </summary>
+  
+  - [Problem 1](https://www.codechef.com/problems/IOI2024)
+  - [Problem 2](https://www.codechef.com/problems/FLOW001)
+  - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
+    
+</details>
+
+<details>
+  <summary> Day 2 </summary>
+  
+  - [Problem 1](https://www.codechef.com/problems/R5S)
+  - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
+  - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)
+
+</details>
+
 
 ## About
 
@@ -35,9 +45,10 @@ This repository is organized by days. Each day’s problem will be in its respec
 
 ### Contact & Links:
 -  [Event link](https://gdg.community.dev/events/details/google-gdg-on-campus-marathwada-mitra-mandals-college-of-engineering-pune-india-presents-dsa-busted-20/)
--  [Your GitHub Profile Link](https://github.com/CodingManiac27)
--  [LinkedIn](https://www.linkedin.com/in/shubham-pawar-9092b72b1/)
 -  [Whatsapp group](https://chat.whatsapp.com/ESA2tSKWQ7GFnpEE28mhp0) 
+-  [My GitHub Profile Link](https://github.com/CodingManiac27)
+-  [My LinkedIn](https://www.linkedin.com/in/shubham-pawar-9092b72b1/)
+
 
 
 
