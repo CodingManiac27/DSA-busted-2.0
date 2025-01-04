@@ -23,6 +23,24 @@ upload your solutions here - [Drive link](https://drive.google.com/drive/folders
 
 </details>
 
+<details>
+  <summary> Day 3 </summary>
+  
+  - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)
+  - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F)
+  - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A)
+
+</details>
+
+<details>
+  <summary> Day 4 </summary>
+  
+  - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)
+  - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C)
+  - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H)
+
+</details>
+
 
 ## About
 
