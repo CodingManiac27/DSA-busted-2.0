@@ -41,6 +41,42 @@ upload your solutions here - [Drive link](https://drive.google.com/drive/folders
 
 </details>
 
+<details>
+  <summary> Day 5 </summary>
+  
+  - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J)
+  - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S)
+  - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L)
+
+</details>
+
+<details>
+  <summary> Day 6 </summary>
+  
+  - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)
+  - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
+  - [Problem 3](https://codeforces.com/contest/1873/problem/A)
+
+</details>
+
+<details>
+  <summary> Day 7 </summary>
+  
+  - [Problem 1](https://codeforces.com/contest/1760/problem/A)
+  - [Problem 2](https://codeforces.com/contest/1692/problem/A)
+  - [Problem 3](https://codeforces.com/contest/1352/problem/A)
+
+</details>
+
+<details>
+  <summary> Day 8 </summary>
+  
+  - [Problem 1]()
+  - [Problem 2]()
+  - [Problem 3]()
+
+</details>
+
 
 ## About
 
