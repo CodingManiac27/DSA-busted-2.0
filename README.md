@@ -71,6 +71,42 @@ upload your solutions here - [Drive link](https://drive.google.com/drive/folders
 <details>
   <summary> Day 8 </summary>
   
+  - [Problem 1](https://www.naukri.com/code360/problems/seeding_6581892)
+  - [Problem 2](https://www.naukri.com/code360/problems/reverse-star-triangle_6573685)
+  - [Problem 3](https://www.naukri.com/code360/problems/increasing-number-triangle_6581893)
+
+</details>
+
+<details>
+  <summary> Day 9 </summary>
+  
+  - [Problem 1](https://www.naukri.com/code360/problems/ninja-and-the-star-pattern-i_6581920)
+  - [Problem 2](https://www.naukri.com/code360/problems/star-diamond_6573686)
+  - [Problem 3](https://www.naukri.com/code360/problems/number-crown_6581894)
+
+</details>
+
+<details>
+  <summary> Day 10 </summary>
+  
+  - [Problem 1](https://www.naukri.com/code360/problems/rotate-array_1230543)
+  - [Problem 2](https://www.naukri.com/code360/problems/ninja-and-the-sorted-check_6581957)
+  - [Problem 3](https://www.naukri.com/code360/problems/ninja-and-the-second-order-elements_6581960)
+
+</details>
+
+<details>
+  <summary> Day 11 </summary>
+  
+  - [Problem 1](https://leetcode.com/problems/find-pivot-index/)
+  - [Problem 2](https://www.geeksforgeeks.org/move-zeroes-end-array/)
+  - [Problem 3](https://leetcode.com/problems/max-consecutive-ones/)
+
+</details>
+
+<details>
+  <summary> Day 12 </summary>
+  
   - [Problem 1]()
   - [Problem 2]()
   - [Problem 3]()
