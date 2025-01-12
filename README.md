@@ -1,7 +1,8 @@
 # DSA-busted-2.0
 Solutions to problems from the 30-day DSA Busted 2.0 event, with code for each day's challenge to help improve DSA skills
 
-upload your solutions here - [Drive link](https://drive.google.com/drive/folders/1zFd7Lps7sIBBmzAstPM6REDeH8zKt10m?usp=sharing)
+- upload your solutions here - [Drive link](https://drive.google.com/drive/folders/1zFd7Lps7sIBBmzAstPM6REDeH8zKt10m?usp=sharing)
+- [Attendance](https://docs.google.com/spreadsheets/d/1sKs28Q-9MZqIO8laeudqaJp-Z5PSSyvhL88TrPIPyRc/edit?usp=sharing)
 
 ## Problem links
 
